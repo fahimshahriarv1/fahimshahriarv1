@@ -175,6 +175,12 @@ Cloud-backed alumni directory.
 
 ---
 
+## my Dev card
+
+<a href="https://daily.dev/fahimshahriarv1"><img src="https://api.daily.dev/devcards/v2/LusW1mnCpAOIpc1S8AXL2.png?type=default&r=35e" width="356" alt="Fahim Shahriar's Dev Card"/></a>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
