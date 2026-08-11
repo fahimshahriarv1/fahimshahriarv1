@@ -81,7 +81,7 @@ val fahim = Developer(
 
 | Role | Company | Period |
 |---|---|---|
-| 🟣 **Senior Software Engineer (SDE III)** | Shikho *(EdTech)* | Mar 2025 – Present |
+| 🟣 **Senior Software Engineer (SDE III)** | Shikho *(EdTech)* | Mar 2025 – August 2026 |
 | 🟢 **Android Developer** | Shikho *(EdTech)* | Nov 2022 – Mar 2025 |
 | 🔵 **Software Engineer** | Deshi *(a ShareTrip subsidiary — Fintech)* | Jan 2022 – Apr 2022 |
 | 🟠 **Software Engineer** | ShareTrip *(Travel & Tourism)* | Aug 2021 – Nov 2022 |
