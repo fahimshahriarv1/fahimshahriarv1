@@ -28,7 +28,7 @@
 val fahim = Developer(
     role        = "Senior Software Engineer (SDE III)",
     company     = "Shikho",
-    experience  = "4+ years",
+    experience  = "5+ years",
     location    = "Rajshahi, Bangladesh 🇧🇩",
     focus       = listOf("Android", "Kotlin", "Jetpack Compose", "Clean Architecture"),
     currently   = "Building AI-first apps & end-to-end encrypted messengers",
