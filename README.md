@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Mobile +Application+Developer+%40+Utshob+%F0%9F%9A%80;Ex+Shikho+%F0%9F%9B%AB;Ex+ShareTrip+%F0%9F%9B%AB;5%2B+years+building+scalable+mobile+apps+%F0%9F%93%B1;Kotlin+%2B+Jetpack+Compose+enthusiast+%E2%9C%A8;AI-first+developer+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Mobile+Application+Developer+%40+Utshob+%F0%9F%9A%80;Ex+Shikho+%F0%9F%9B%AB;Ex+ShareTrip+%F0%9F%9B%AB;5%2B+years+building+scalable+mobile+apps+%F0%9F%93%B1;Kotlin+%2B+Jetpack+Compose+enthusiast+%E2%9C%A8;AI-first+developer+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
