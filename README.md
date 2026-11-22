@@ -80,7 +80,7 @@ val fahim = Developer(
 
 | Role | Company | Period |
 |---|---|---|
-| 🟣 **Mobile Application Developer** | [Utshob](https://utshob.xyz/) *(EdTech)* | Sept 2026 – Present |
+| 🟣 **Mobile Application Developer** | [Utshob](https://utshob.xyz/) *(Event Management)* | Sept 2026 – Present |
 | 🟣 **Senior Software Engineer (SDE III)** | [Shikho](https://shikho.com/) *(EdTech)* | Mar 2025 – Aug 2026 |
 | 🟢 **Android Developer** | [Shikho](https://shikho.com/) *(EdTech)* | Nov 2022 – Mar 2025 |
 | 🔵 **Software Engineer** | Deshi *(a ShareTrip subsidiary — Fintech)* | Jan 2022 – Apr 2022 |
