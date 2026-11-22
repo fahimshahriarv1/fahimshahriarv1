@@ -91,6 +91,7 @@ val fahim = Developer(
 
 <br/>
 
+- 📲 Shipped the **Utshob Consumer app** (Category Based Services and Checkout like Event decor, Car rental, Rides and Party etc..) at Utshob.
 - 📹 Built the **Video Library** (Shorts, Most Important Videos, Exclusive Guideline Videos) and **Ad feature** at Shikho.
 - 📝 Developed **Model Test CQ exam + solving-video** feature, a **new video player**, installment, quarterly & academic-program features.
 - 💳 Shipped the **Deshi Merchant app** (invoices, categories, payments) and cut transaction processing time by **~10%**.
