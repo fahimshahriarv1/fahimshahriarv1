@@ -1,6 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  Fahim Shahriar · GitHub Profile README                          -->
-<!--  Put this file in a repo named exactly: fahimshahriarv1          -->
+<!--  Fahim Shahriar · GitHub Profile README                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/fahimshahriarv1">
@@ -9,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Android+Developer+%40+Shikho+%F0%9F%9A%80;Ex+ShareTrip+%F0%9F%9B%AB;5%2B+years+building+scalable+mobile+apps+%F0%9F%93%B1;Kotlin+%2B+Jetpack+Compose+enthusiast+%E2%9C%A8;AI-first+developer+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Mobile +Application+Developer+%40+Utshob+%F0%9F%9A%80;Ex+Shikho+%F0%9F%9B%AB;Ex+ShareTrip+%F0%9F%9B%AB;5%2B+years+building+scalable+mobile+apps+%F0%9F%93%B1;Kotlin+%2B+Jetpack+Compose+enthusiast+%E2%9C%A8;AI-first+developer+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -26,8 +25,8 @@
 
 ```kotlin
 val fahim = Developer(
-    role        = "Senior Software Engineer (SDE III)",
-    company     = "Shikho",
+    role        = "Mobile Application Developer",
+    company     = "Utshob",
     experience  = "5+ years",
     location    = "Rajshahi, Bangladesh 🇧🇩",
     focus       = listOf("Android", "Kotlin", "Jetpack Compose", "Clean Architecture"),
@@ -36,7 +35,7 @@ val fahim = Developer(
 )
 ```
 
-- 🚀 **Android Developer** with **4+ years** shipping production features across **EdTech & travel** apps used by **10K+ daily users**.
+- 🚀 **Android Developer** with **5+ years** shipping production features across **EdTech & travel** apps used by **10K+ daily users**.
 - 🔄 I love **modernizing legacy code** — migrated Java modules to Kotlin, improving maintainability by ~30%.
 - 🤖 Big believer in **AI-first development** — my latest projects are built ~90% with AI agents.
 - 🎓 Pursuing my **M.Sc in CSE** at Mawlana Bhashani Science & Technology University.
@@ -81,10 +80,11 @@ val fahim = Developer(
 
 | Role | Company | Period |
 |---|---|---|
-| 🟣 **Senior Software Engineer (SDE III)** | Shikho *(EdTech)* | Mar 2025 – Present |
-| 🟢 **Android Developer** | Shikho *(EdTech)* | Nov 2022 – Mar 2025 |
+| 🟣 **Mobile Application Developer** | [Utshob](https://utshob.xyz/) *(EdTech)* | Sept 2026 – Present |
+| 🟣 **Senior Software Engineer (SDE III)** | [Shikho](https://shikho.com/) *(EdTech)* | Mar 2025 – Aug 2026 |
+| 🟢 **Android Developer** | [Shikho](https://shikho.com/) *(EdTech)* | Nov 2022 – Mar 2025 |
 | 🔵 **Software Engineer** | Deshi *(a ShareTrip subsidiary — Fintech)* | Jan 2022 – Apr 2022 |
-| 🟠 **Software Engineer** | ShareTrip *(Travel & Tourism)* | Aug 2021 – Nov 2022 |
+| 🟠 **Software Engineer** | [ShareTrip](https://sharetrip.net/) *(Travel & Tourism)* | Aug 2021 – Nov 2022 |
 
 <details>
 <summary>✨ <b>Selected highlights (click to expand)</b></summary>
